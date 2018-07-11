@@ -13,7 +13,7 @@ public class CofeeShop {
 		if(userInput.equals("Small")) {
 			System.out.println("Price = $1");
 		}
-		
+		//Adding a comment in line number 16
 		else if(userInput.equals("Medium")) {
 			System.out.println("Price = $1.5");
 		}
